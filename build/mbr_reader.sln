@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mbrreader", "mbr_reader.vcxproj", "{5F1B8D91-413C-47F5-9E88-6FCBD8348B73}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libmbrreader", "libmbrreader.vcxproj", "{E3949BC2-B45D-49B3-883D-8566DB19DFC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F1B8D91-413C-47F5-9E88-6FCBD8348B73}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5F1B8D91-413C-47F5-9E88-6FCBD8348B73}.Debug|Win32.Build.0 = Debug|Win32
+		{5F1B8D91-413C-47F5-9E88-6FCBD8348B73}.Release|Win32.ActiveCfg = Release|Win32
+		{5F1B8D91-413C-47F5-9E88-6FCBD8348B73}.Release|Win32.Build.0 = Release|Win32
+		{E3949BC2-B45D-49B3-883D-8566DB19DFC2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E3949BC2-B45D-49B3-883D-8566DB19DFC2}.Debug|Win32.Build.0 = Debug|Win32
+		{E3949BC2-B45D-49B3-883D-8566DB19DFC2}.Release|Win32.ActiveCfg = Release|Win32
+		{E3949BC2-B45D-49B3-883D-8566DB19DFC2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
