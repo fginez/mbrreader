@@ -1,6 +1,7 @@
 #include "src/mbrreader.h"
 #include "src/main/printbuffer.h"
 #include <iostream>
+#include <stdio.h>#include <string.h>
 
 using namespace std;
 
